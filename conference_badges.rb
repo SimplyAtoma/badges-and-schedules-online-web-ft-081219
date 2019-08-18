@@ -20,4 +20,5 @@ def assign_rooms(array)
       room_array << room
       counter += 1
   end
+  room_array
 end

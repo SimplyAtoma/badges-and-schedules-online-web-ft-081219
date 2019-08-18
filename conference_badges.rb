@@ -8,6 +8,7 @@ def batch_badge_creator()
 end
 
 def assign_rooms(array)
-  counter = 0
-  array.each {|name|
+  counter = 1
+  array.each {|name| 
+      +=
 end
